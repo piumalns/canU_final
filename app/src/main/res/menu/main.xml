@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/tec"
+        android:orderInCategory="100"
+        android:title="tec"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mac"
+        android:orderInCategory="100"
+        android:title="mac"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ope"
+        android:orderInCategory="100"
+        android:title="ope"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+</menu>

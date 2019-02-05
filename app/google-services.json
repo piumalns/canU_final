@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435915664029",
+    "firebase_url": "https://canu-907e6.firebaseio.com",
+    "project_id": "canu-907e6",
+    "storage_bucket": "canu-907e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435915664029:android:045687fbd7c3273c",
+        "android_client_info": {
+          "package_name": "com.example.hasith.canu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435915664029-1mdardv8bisnscpbcq9j2ckbp94vf89v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hasith.canu",
+            "certificate_hash": "0947325bb82c11f79fd9d9aa61c763493f465d17"
+          }
+        },
+        {
+          "client_id": "435915664029-s3al7e6q08m3gektkgaasg76i6sgcuei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnW79s9344p7vgDoCPQJU9weF9TyhmFFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435915664029-s3al7e6q08m3gektkgaasg76i6sgcuei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
